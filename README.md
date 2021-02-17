@@ -27,6 +27,7 @@ The goal of the game is to survive through the end of winter.
     compare to numbers in life stats to determine if squirrel dies or not.
 4.  Figure out how to let players choose where to search for 
     previously buried seeds.
+
 I have a lot of little steps in between these that I want to do, but I think
 these are the highlights.
     
