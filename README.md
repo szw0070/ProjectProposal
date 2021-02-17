@@ -1,10 +1,10 @@
-#Life as a Scatterhoarder: Would you survive?
+# Life as a Scatterhoarder: Would you survive?
 
-##Objective
+## Objective
 To create a command line based game that leads players 
     through the life of a squirrel during fall and winter.
 
-##Short summary of game
+## Short summary of game
 The goal of the game is to survive through the end of winter.
     This will be done by deciding how to split time between
     watching for predators, resting, and foraging for food.
@@ -18,7 +18,7 @@ The goal of the game is to survive through the end of winter.
     predation risk stat) and may or may not escape the predator
     (based on the total of all life stats).
 
-##Goals
+## Goals
 1.  Add all possible actions to the dictionary along with how they 
     affect the different life stats levels
 2.  Create variables for the life stats that change value when 
