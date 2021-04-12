@@ -6,7 +6,7 @@ To create a command line based game that leads players
 
 ## Short summary of game
 The goal of the game is to survive through the end of winter.
-    This will be done by deciding how to split time between
+    This can be done by deciding how to split your time between
     watching for predators, resting, and foraging for food.
     Foraging for food also has a lot of steps that include
     scatterhoarding food to eat during winter.
@@ -16,7 +16,8 @@ The goal of the game is to survive through the end of winter.
     At the end of each "turn" (certain terminal decisions),
     the squirrel may or may not meet a predator (based on the 
     predation risk stat) and may or may not escape the predator
-    (based on the total of all life stats).
+    (based on the total of all life stats). When the stat 'time' exceeds 30
+    the game is won due to the player surviving through winter.
 
 ## Goals
 1.  Add all possible actions to the dictionary along with how they 
@@ -30,4 +31,9 @@ The goal of the game is to survive through the end of winter.
 
 I have a lot of little steps in between these that I want to do, but I think
 these are the highlights.
-    
+
+
+## How to play:
+Load the program SquirrelGame_041021.py in Python3 and follow the prompts on the screen!
+Options must be spelled correctly of the prompt should loop until a possible option is chosen
+and spelled correctly.
